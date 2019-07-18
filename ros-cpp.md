@@ -26,4 +26,4 @@ Header files have the extension **.h**.
 
 Be descriptive, e.g., instead of laser.cpp, use hokuyo_topurg_laser.cpp.
 
-Normally a file implements a class, therefore name the file after the class. For example the class ActionServer would live in the file action_server.h.
+Normally a file implements a class, therefore name the file after the class. For example the class ActionServer would live in the file action_server.h
